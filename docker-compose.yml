@@ -1,0 +1,9 @@
+services:
+  app:
+    build:
+      context: .
+    image: dgp-api
+    volumes:
+      - .:/app
+    ports:
+      - "3000:3000"

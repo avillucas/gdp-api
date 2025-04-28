@@ -1,0 +1,23 @@
+{
+  "name": "gdp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avillucas/gdp-api.git"
+  },
+  "keywords": [],
+  "author": "avillucas@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avillucas/gdp-api/issues"
+  },
+  "homepage": "https://github.com/avillucas/gdp-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
